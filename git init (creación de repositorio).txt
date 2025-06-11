@@ -1,0 +1,28 @@
+git init (creación de repositorio)
+git remote add origin (pegar link del repositorio)
+git add . (añadir todos los archivos al repositorio)
+git commit -m " comentario"
+git status
+git log
+git branch
+git checkout 
+git switch master/rama2
+git switch -c rama2
+git push -u origin rama2
+
+FRONTEND
+npm i instalar
+npm run build construir
+npm run dev correr
+
+BACKEND
+npm i
+node index.js	
+node server
+npm install dotenv
+npm install axios
+
+npm install express mongoose dotenv cors
+MongoDB
+Usuario: juanospina04
+Contraseña:0qijnkPyAbmlox1y
